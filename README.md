@@ -80,7 +80,7 @@ I am also developing and exploring digital products including:
 - Full-stack web applications
 - API development
 - SaaS and business platforms
-- AI-assisted software engineering
+  
 - Marketplace technology
 - Recruitment platforms
 - Community and social platforms
