@@ -4,7 +4,7 @@
 
 I build practical digital products that solve real-world problems, with a focus on web applications, APIs, business platforms, marketplaces, and community-focused technology.
 
-I work with modern development tools and use AI-assisted engineering workflows to accelerate implementation, debugging, refactoring, documentation, and product development.
+I work with modern development tools workflows to accelerate implementation, debugging, refactoring, documentation, and product development.
 
 ## 🛠️ Technology Stack
 
