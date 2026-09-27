@@ -76,21 +76,6 @@ I am also developing and exploring digital products including:
 - **WesternTradeConnect** — marketplace and trade-focused technology
 - **OBL Job Platform** — recruitment technology for employers and job seekers
 
-## 🤖 AI-Assisted Engineering
-
-I use AI development tools as part of my engineering workflow, including Claude Code and GitHub Copilot.
-
-Typical uses include:
-- Architecture exploration
-- Feature implementation
-- Debugging
-- Refactoring
-- Documentation
-- Code review
-- Testing and development assistance
-
-AI is used as an engineering accelerator while keeping software architecture, security, maintainability, and final technical decisions under developer control.
-
 ## 🎯 Current Focus
 
 - Full-stack web applications
