@@ -42,8 +42,7 @@ I work with modern development tools workflows to accelerate implementation, deb
 - Docker
 - Nginx
 - PM2
-- GitHub Copilot
-- Claude Code
+  
 
 ## 🚀 Selected Projects
 
